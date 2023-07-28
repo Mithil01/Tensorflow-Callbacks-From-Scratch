@@ -1,6 +1,9 @@
 # Tensorflow-Callbacks-From-Scratch
 - The goal of this project is to implement custom callbacks in tensorflow such as learningratescheduler,customMetrics, TerminatingTraining  from scratch along with using predefined callbacks provided by tensorflow.
 
+## Incase you are unable to view the github code due to large file size then use the below colab code link:
+[Link](https://colab.research.google.com/github/Mithil01/Tensorflow-Callbacks-From-Scratch/blob/main/Tensorflow_callbacks_from_scratch.ipynb)
+
 ## Callbacks Implemented
 
 ### 1. CustomMetrics
@@ -20,5 +23,5 @@
 - Tensorboard callback to display graphs for train and test accuracies.
 
 ## Model Architecture
-! [Image Alt Src]()
+! [Image Alt Src](cb_assignment_arch.png)
   
