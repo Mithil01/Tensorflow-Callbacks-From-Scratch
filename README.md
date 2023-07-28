@@ -23,5 +23,5 @@
 - Tensorboard callback to display graphs for train and test accuracies.
 
 ## Model Architecture
-! [Image Alt Src](cb_assignment_arch.png)
+! [Image Alt Text](cb_assignment_arch.png)
   
